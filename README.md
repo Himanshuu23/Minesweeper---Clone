@@ -6,7 +6,7 @@ Reveal all the numbered tiles but avoiding the Mines!
   <li>Reveal all possible numbered tiles</li>
   <li>If you step on the mine then GAME OVER!</li>
   <li>Number on the each tile represents the number of tiles present in the 3x3 grid around it</li>
-  <li>You can mark the tile with a 'right click' if your're sure that there is a Mine beneath that tile</li>
+  <li>You can mark the tile with a 'right click' if you're sure that there is a Mine beneath that tile</li>
 </ul>
 
 <h2>Running it locally on your machine</h2>
